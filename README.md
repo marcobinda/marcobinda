@@ -4,7 +4,8 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (EAD) pela Pontifícia Univ
 
 Experimentando com Go + HTMX.
 
-![GitHub go.mod Go version (branch)](https://img.shields.io/github/go-mod/go-version/:user/:repo/:branch)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=777BB4)
+![HTMX](https://img.shields.io/badge/Framework-HTMX-informational?style=flat&logo=htmx&color=F7DF1E)
 
 
 ### Contatos
