@@ -1,12 +1,8 @@
 # Marco de Pereira Binda
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas (EAD) pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG), com formação em Publicidade e Contabilidade, pós-graduação em Marketing e em Finanças Corporativas, buscando transição para a área de tecnologia.
-          
-<div>
-<a href="https://github.com/marcobinda">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcobinda&layout=compact&langs_count=10&hide=JavaScript,CSS"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcobinda&show_icons=true&include_all_commits=true&count_private=true"/>
-</div>
+Tecnólogo em Análise e Desenvolvimento de Sistemas (EAD) pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG), com formação em Publicidade e Contabilidade, pós-graduação em Marketing e em Finanças Corporativas.
+
+Experimentando com Go + HTMX.
 
 ### Contatos
 
