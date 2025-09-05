@@ -1,8 +1,6 @@
 # Marco de Pereira Binda
 
-Discente no curso de Tecnólogo em Análise e Desenvolvimento de Sistemas (EAD) da Pontifícia Universidade Católica de Minas Gerais (PUC-MG).
-
-Formado em Publicidade e Contabilidade, pós graduado em Marketing e Finanças Corporativas, buscando transição para a área de tecnologia.
+Tecnólogo em Análise e Desenvolvimento de Sistemas (EAD) pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG), com formação em Publicidade e Contabilidade, pós-graduação em Marketing e em Finanças Corporativas, buscando transição para a área de tecnologia.
           
 <div>
 <a href="https://github.com/marcobinda">
