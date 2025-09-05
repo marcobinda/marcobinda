@@ -6,6 +6,7 @@ Experimentando com Go + HTMX.
 
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=777BB4)
 ![HTMX](https://img.shields.io/badge/Framework-HTMX-informational?style=flat&logo=htmx&color=F7DF1E)
+![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 
 ### Contatos
